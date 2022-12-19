@@ -33,7 +33,7 @@ namespace Editor {
             }
 
             if (ProperName("!")) {
-                ModifyObjectName("!", colorData.color);
+                ModifyObjectName("!", Color.red);
             }else if (ProperName("~")) {
                 ModifyObjectName("~", colorData.color1);
             }else if (ProperName("-")) {

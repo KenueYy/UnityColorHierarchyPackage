@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu]
+[CreateAssetMenu(menuName = "Color Hierarchy")]
 public class ColorHierarchy : ScriptableObject
 {
     [Header(" ! prefix color")]
