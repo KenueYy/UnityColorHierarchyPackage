@@ -2,5 +2,6 @@
   "name": "com.kenuey.color-hierarchy",
   "version": "1.0.0",
   "displayName": "Unity Color Hierarchy",
-  "type": "tool"
+  "type": "tool",
+  "description": "Unity Color Hierarchy"
 }
